@@ -5,14 +5,20 @@
 Hi! I'm Brian Mugatsia, a Mathematics & Computer Science student from Maseno University, Kenya 🇰🇪.  
 I enjoy building full-stack applications using **Java, Spring Boot, and ReactJS** and exploring data-driven solutions.  
 
-
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F0FF&width=600&lines=Hi+there!+I'm+Brian+Mugatsia;I+build+full-stack+apps+with+Java+and+ReactJS;Exploring+Data+Science+&+Machine+Learning;Let's+build+amazing+projects+together!;Open+to+collaboration+and+learning)
 
 ---
 
 ### 🎯 My Philosophy
 > "Programming is about solving real-world problems efficiently, creatively, and with clean code."
+
+---
+
+### 🚀 Currently Learning & Open to Work
+![Java](https://img.shields.io/badge/Currently_Learning-Java-orange?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Currently_Learning-Spring_Boot-green?style=for-the-badge&logo=spring&logoColor=white)
+![ReactJS](https://img.shields.io/badge/Currently_Learning-ReactJS-blue?style=for-the-badge&logo=react&logoColor=white)
+![Open to Work](https://img.shields.io/badge/Open_to_Work-Yes-red?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
