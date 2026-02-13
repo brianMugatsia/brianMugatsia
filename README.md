@@ -85,10 +85,17 @@ I enjoy building full-stack applications using **Java, Spring Boot, and ReactJS*
 I love combining **mathematical logic** and **programming** to build efficient and scalable software solutions! 🚀
 
 ---
+### 📊 GitHub Stats & Trophies
 
-### 📊 GitHub Stats
-![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianMugatsia&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianMugatsia&layout=compact&theme=radical)
+<!-- GitHub Profile Stats -->
+![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianMugatsia&show_icons=true&count_private=true&theme=radical)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brianMugatsia&layout=compact&count_private=true&show_icons=true&theme=radical)
+
+<!-- GitHub Trophies -->
+![Trophies](https://github-profile-trophy.vercel.app/?username=brianMugatsia&theme=radical&margin-w=15&no-frame=false)
+
 
 ---
 
