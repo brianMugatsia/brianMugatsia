@@ -1,5 +1,5 @@
 👋 Hey there! I'm Brian Mugatsia
-💫 About Me
+💫 About  Me
 
 Hi! I'm Brian Mugatsia, a Mathematics & Computer Science student from Maseno University, Kenya 🇰🇪.
 I enjoy building full-stack applications using Java, Spring Boot, and ReactJS and exploring data-driven solutions.
