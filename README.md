@@ -138,9 +138,9 @@ A decoupled infrastructure ecosystem incorporating custom network state routers 
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brianmugatsia&show_icons=true&theme=tokyonight&cache=1"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brianMugatsia&show_icons=true&theme=tokyonight&cache=1"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=brianmugatsia&theme=tokyonight&cache=1"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=brianMugatsia&theme=tokyonight&cache=1"/>
 
 </p>
 
