@@ -128,9 +128,9 @@ A decoupled infrastructure ecosystem incorporating custom network state routers 
 
 | Goal                               | Status         | Details                                |
 | ---------------------------------- | -------------- | -------------------------------------- |
-| Polish & Publish LecturerMind      | 🚀 Building    | Cross-platform App Stores deployment    |
+| Polish & Publish LecturerMind      | 🚀 Building    | Cross-platform App Stores deployment   |
 | Architect Scalable Data Flowcharts | 🔄 In Progress | Designing complex system map logic     |
-| Deepen Advanced Mathematics & ML   | 🎯 Preparing   | Applying statistical models directly   |
+| Deepen Advanced Mathematics & ML   | 🎯 Learning   | Applying statistical models directly   |
 
 ---
 
