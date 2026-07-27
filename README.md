@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Brian+Mugatsia;React+Native+%7C+Python+Developer;FastAPI+%7C+Django+%7C+Spring+Boot;Exploring+AI%2C+Data+Science+%26+Machine+Learning;Building+Real-World+Software+Solutions!" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Brian+Mugatsia;React+Native+%7C+Python+Developer;Full-Stack+Web+%26+Mobile+Engineer;FastAPI+%7C+Django+%7C+Spring+Boot;Building+Real-World+AI+Solutions!" />
 
 </div>
 
@@ -13,18 +13,16 @@
 🎓 Mathematics & Computer Science student at **Maseno University, Kenya 🇰🇪**
 
 💻 Passionate about building:
-
 * Cross-Platform Mobile Applications (React Native)
-* Scalable backend APIs & real-time communication systems
-* AI-powered utilities
-* Mathematical & data-driven software solutions
+* Modern, Responsive Web Frameworks (React JS, JavaScript, Bootstrap 5)
+* Scalable backend APIs & real-time WebSocket communication systems
+* Multi-Model AI-integrated software solutions
 
 🚀 Currently focused on:
-
-* FastAPI high-performance optimization & WebSockets
-* Mobile frontend engineering & native device utilities
-* Real-time audio processing & AI transcription workflows
-* Data engineering with Python
+* FastAPI performance tuning & real-time transcription workflows
+* Leveraging cutting-edge LLM and Audio APIs (Gemini, Anthropic, Deepgram)
+* Mobile UI/UX optimization and interactive wireframing
+* Advanced system logic and programmatic flowcharts
 
 🧠 I enjoy combining **mathematical logic + programming** to create highly efficient, scalable software solutions.
 
@@ -51,12 +49,34 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Lucide-000000?style=for-the-badge&logo=lucide&logoColor=white"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lucide_Icons-000000?style=for-the-badge&logo=lucide&logoColor=white"/>
+
+</p>
+
+---
+
+## 🤖 AI & Cognitive Services APIs
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Deepgram_API-13EF95?style=for-the-badge&logo=deepgram&logoColor=black"/>
+<img src="https://img.shields.io/badge/Anthropic_Claude_API-CC9866?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Gemini_API-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 
 </p>
 
@@ -66,9 +86,10 @@
 
 <p align="center">
 
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLAlchemy-D71F1F?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white"/>
@@ -77,44 +98,29 @@
 
 ---
 
-## 📊 Data Science Basics
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-F37626?style=for-the-badge&logo=plotly&logoColor=white"/>
-
-</p>
-
----
-
-# 🔭 Current Focus & Active Mobile Buildout
+# 🔭 Current Focus & Enterprise Buildout
 
 * 🎙️ **LecturerMind Mobile App** *(Flagship Project)*
-  * Built using **React Native** & **FastAPI**
-  * Real-time lecture audio capture & background recording processing
-  * Instant generation of synthesized short summary notes
-  * Smart AI system compiling exactly 10 high-probability exam-style quizzes
+  * Built using **React Native** & **FastAPI**.
+  * Integrated **Deepgram API** for lightning-fast, real-time live lecture voice capture and voice-to-text processing.
+  * Orchestrated **Anthropic API** & **Gemini API** layers to synthesize structured short notes and generate high-probability, exam-ready 10-question quizzes.
 
-* 📱 **SMS Forwarder Mobile Utility**
-  * Android integration forwarding incoming local device metrics securely via real-time WebSockets to microservice endpoints
+* 📱 **SMS Forwarder Mobile Utility** *(Roberms Ltd)*
+  * Custom Android notification middleware routing pipeline. Streams system alerts and event logging variables through asynchronous pipelines securely.
+  * 📄 **API Documentation:** Check out the live deployment docs [here](https://sms-backend-w6d5.onrender.com).
 
-* 🏦 **Sacco Mobile App**
-  * FinTech mobile application architected for *Roberms Ltd*
+* 🏦 **Sacco Mobile App** *(Roberms Ltd)*
+  * FinTech application engineering and secure account tracking pipelines engineered tailored for *Roberms Ltd*.
 
 ---
 
 # 💻 Featured Projects
 
 ## 🧠 LecturerMind 🌟
-An AI-powered academic assistant that captures live lectures, handles real-time voice streaming, and serves up concise key points alongside tailored practice quizzes.
+An advanced academic assistant leveraging a blend of state-of-the-art AI networks. It processes raw lecture audio via Deepgram and evaluates it using Anthropic and Gemini workflows to give students immediate study assets.
 
 ## 📧 Mobile SMS Forwarder Suite
-A system utilizing a cross-platform client and a robust backend router using custom connection managers to forward and back up critical system alerts.
-
-## 🏠 Maseno Hostel Booking System
-A modern full-stack administration dashboard using React and Spring Boot.
+A decoupled infrastructure ecosystem incorporating custom network state routers and client event handlers to stream incoming message hooks securely. Made for enterprise distribution under *Roberms Ltd*.
 
 ---
 
@@ -122,8 +128,8 @@ A modern full-stack administration dashboard using React and Spring Boot.
 
 | Goal                               | Status         | Details                                |
 | ---------------------------------- | -------------- | -------------------------------------- |
-| Polish & Publish LecturerMind      | 🚀 Building    | App Store/APK rollout & AI stability  |
-| Optimize Mobile WebSockets         | 🔄 In Progress | Scaling backend infrastructure pools   |
+| Polish & Publish LecturerMind      | 🚀 Building    | Cross-platform App Stores deployment    |
+| Architect Scalable Data Flowcharts | 🔄 In Progress | Designing complex system map logic     |
 | Deepen Advanced Mathematics & ML   | 🎯 Preparing   | Applying statistical models directly   |
 
 ---
@@ -162,7 +168,7 @@ A modern full-stack administration dashboard using React and Spring Boot.
 
 # ⚡ Fun Fact
 
-🚀 I thrive at the direct intersection of **Mathematics + Python code**, crafting real-world tools that make complex tasks feel effortless.
+🚀 I thrive at the direct intersection of **Mathematics + Python code**, crafting intelligent tools with precise system architecture flowcharts!
 
 ---
 
