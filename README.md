@@ -107,7 +107,7 @@
 
 * 📱 **SMS Forwarder Mobile Utility** *(Roberms Ltd)*
   * Custom Android notification middleware routing pipeline. Streams system alerts and event logging variables through asynchronous pipelines securely.
-  * 📄 **API Documentation:** Check out the live deployment docs [here](https://sms-backend-w6d5.onrender.com).
+  * 📄 **API Documentation:** Check out the live deployment docs [here](https://sms-backend-w6d5.onrender.com/docs).
 
 * 🏦 **Sacco Mobile App** *(Roberms Ltd)*
   * FinTech application engineering and secure account tracking pipelines engineered tailored for *Roberms Ltd*.
