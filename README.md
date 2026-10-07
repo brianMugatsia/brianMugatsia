@@ -13,16 +13,17 @@
 🎓 Mathematics & Computer Science student at **Maseno University, Kenya 🇰🇪**
 
 💻 Passionate about building:
-* Cross-Platform Mobile Applications (React Native)
-* Modern, Responsive Web Frameworks (React JS, JavaScript, Bootstrap 5)
-* Scalable backend APIs & real-time WebSocket communication systems
-* Multi-Model AI-integrated software solutions
+- Cross-Platform Mobile Applications (React Native)
+- Modern, Responsive Web Frameworks (React JS, JavaScript, Bootstrap 5, Tailwind)
+- Scalable backend APIs & real-time WebSocket communication systems
+- Multi-Model AI-integrated software solutions
+- Enterprise operations, hub management, & offline-first financial platforms
 
 🚀 Currently focused on:
-* FastAPI performance tuning & real-time transcription workflows
-* Leveraging cutting-edge LLM and Audio APIs (Gemini, Anthropic, Deepgram)
-* Mobile UI/UX optimization and interactive wireframing
-* Advanced system logic and programmatic flowcharts
+- FastAPI performance tuning & real-time transcription workflows
+- Mobile UI/UX optimization, offline-first local databases, & background sync
+- Leveraging cutting-edge LLM and Audio APIs (Gemini, Anthropic, Deepgram)
+- Advanced system logic, architecture design, and programmatic flowcharts
 
 🧠 I enjoy combining **mathematical logic + programming** to create highly efficient, scalable software solutions.
 
@@ -50,6 +51,7 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -64,6 +66,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/Lucide_Icons-000000?style=for-the-badge&logo=lucide&logoColor=white"/>
 
 </p>
@@ -82,14 +85,14 @@
 
 ---
 
-## 🗄️ Databases & Tools
+## 🗄️ Databases & Infrastructure
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLAlchemy-D71F1F?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white"/>
@@ -100,21 +103,29 @@
 
 # 🔭 Current Focus & Enterprise Buildout
 
-* 🎙️ **LecturerMind Mobile App** *(Flagship Project)*
+- 📊 **BOOST Mobile & Agile Hub Platform** *(Agile Consulting)*
+  * **Mobile Lead:** Designing & developing an offline-first **React Native (Expo)** cross-platform application for BOOST beneficiaries and small business operators.
+  * Engineered local persistence (SQLite) and background delta synchronization to sync field financial records, revenue streams, cash flow, and multi-year projections directly with a centralized **FastAPI** & **PostgreSQL** backend.
+  * Integrated with **Agile Hub**, an operational web portal for hub management, beneficiary tracking, inventory, sales, and financial reporting.
+
+- 🎙️ **LecturerMind Mobile App** *(Flagship AI Project)*
   * Built using **React Native** & **FastAPI**.
   * Integrated **Deepgram API** for lightning-fast, real-time live lecture voice capture and voice-to-text processing.
   * Orchestrated **Anthropic API** & **Gemini API** layers to synthesize structured short notes and generate high-probability, exam-ready 10-question quizzes.
 
-* 📱 **SMS Forwarder Mobile Utility** *(Roberms Ltd)*
+- 📱 **SMS Forwarder Mobile Utility** *(Roberms Ltd)*
   * Custom Android notification middleware routing pipeline. Streams system alerts and event logging variables through asynchronous pipelines securely.
   * 📄 **API Documentation:** Check out the live deployment docs [here](https://smsapi.roberms.com).
 
-* 🏦 **Sacco Mobile App** *(Roberms Ltd)*
+- 🏦 **Sacco Mobile App** *(Roberms Ltd)*
   * FinTech application engineering and secure account tracking pipelines engineered tailored for *Roberms Ltd*.
 
 ---
 
 # 💻 Featured Projects
+
+## 📊 Agile Hub & BOOST Financial Reporting Ecosystem
+A multi-tier digital platform created for **Agile Consulting**. Combines an offline-first mobile financial app for field beneficiaries with a centralized Django/FastAPI web platform to track operations, stock, sales, agent commissions, and finance summaries across local hubs.
 
 ## 🧠 LecturerMind 🌟
 An advanced academic assistant leveraging a blend of state-of-the-art AI networks. It processes raw lecture audio via Deepgram and evaluates it using Anthropic and Gemini workflows to give students immediate study assets.
@@ -126,11 +137,12 @@ A decoupled infrastructure ecosystem incorporating custom network state routers 
 
 # 📈 Goals For 2026
 
-| Goal                               | Status         | Details                                |
+| Goal                                | Status         | Details                                |
 | ---------------------------------- | -------------- | -------------------------------------- |
+| Deploy BOOST Mobile & Agile Hub    | 🚀 Building    | Roll out offline sync & hub reporting  |
 | Polish & Publish LecturerMind      | 🚀 Building    | Cross-platform App Stores deployment   |
 | Architect Scalable Data Flowcharts | 🔄 In Progress | Designing complex system map logic     |
-| Deepen Advanced Mathematics & ML   | 🎯 Learning   | Applying statistical models directly   |
+| Deepen Advanced Mathematics & ML   | 🎯 Learning    | Applying statistical models directly   |
 
 ---
 
