@@ -119,6 +119,7 @@
   * **Mobile Lead:** Designing and developing an offline-first **React Native (Expo)** app for BOOST beneficiaries and small business operators.
   * Local persistence (SQLite) and background delta sync of field financial records, revenue, cash flow, and multi-year projections to a **FastAPI** and **PostgreSQL** backend.
   * **Agile Hub:** a **Django** web platform for hub management covering sales, sales-agent commissions, inventory, payroll, finance, members, services, and reporting. Built with hub-first scoping (each hub sees only its own records), role-based access, spreadsheet imports and exports, and CI checks on every push.
+  * 🌐 **Live Demo:** [agile.roberms.com](https://agile.roberms.com/)
   * Next up: offline PWA support (service worker and IndexedDB queue) and yield and demand forecasting reports.
 
 - 🎙️ **LecturerMind Mobile App** *(Flagship AI Project)*
@@ -151,6 +152,10 @@
 
 ## 📊 Agile Hub & BOOST Financial Reporting Ecosystem
 A multi-tier digital platform for **Agile Consulting**. It combines an offline-first mobile financial app for field beneficiaries with a centralized Django/FastAPI web platform to track operations, stock, sales, agent commissions, and finance summaries across local hubs.
+
+<a href="https://agile.roberms.com/" target="_blank">
+<img src="https://img.shields.io/badge/Live_Demo-agile.roberms.com-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+</a>
 
 ## 🧠 LecturerMind 🌟
 An AI academic assistant. It turns raw lecture audio into notes and quizzes using Deepgram, Anthropic, and Gemini workflows.
